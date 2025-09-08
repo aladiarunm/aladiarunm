@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aladiarunm
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning bachelors in coputer science and engnineering
+- 🌱 I’m currently learning bachelors in computer science and engnineering
 - 📫 How to reach me through mail aladiarunm@gmail.com
 
 <!---
